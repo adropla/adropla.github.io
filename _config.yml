@@ -30,10 +30,14 @@ additional_links:
 about_title: Обо мне
 about_profile_image: images/profile.jpg
 about_content: |
-  Пробовал разные направления в разработке ПО. Писал на JS, TS, C#, пробовал 1C, Python, C++, Java, после чего остановился на Kotlin и разработке под Android.
-  Люблю пробовать новые фреймворки и избавляться от легаси.
+  Увлекаюсь программированием со школы. За это время пробовал писать на Python(Django), C#(Unity+Vuforia, ASP.NET, Windows Forms), C++, PHP, Java, но остановился на JS.
 
-  Последние несколько лет с весны 2020 пишу на Kotlin.
+  Есть опыт написания full-stack шахматного real-time приложения с 3D отображением и дополненной реальностью как дипломного проекта. Стек: React. ReduxToolKit, AndD, three.js, Nest.js, Postgres, Socket.io
+  Ссылка на фронт: https://github.com/adropla/3d-ar-chess-client
+  Ссылка на бэк: https://github.com/adropla/nest-chess-server
+  Ссылка на деплой: https://3d-ar-chess-client.vercel.app/
+
+  Дружелюбный и позитивный :) Люблю природу и культуру китайского чая
 
 content:
   - title: Скиллы
